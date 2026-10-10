@@ -485,6 +485,18 @@ marking-TailPlugTail-m_tail_plugtail_FRONT_secondary = Cable Tail, Plug (Seconda
 marking-TailPlugTail-m_tail_plugtail_FRONT_tertiary = Cable Tail, Plug (tertiary)
 marking-TailPlugTail = Cable Tail, Plug
 
+marking-TailPoodle-m_tail_poodle_BEHIND_primary = Poodle Tail (Primary)
+marking-TailPoodle-m_tail_poodle_BEHIND_secondary = Poodle Tail (Secondary)
+marking-TailPoodle-m_tail_poodle_FRONT_primary = Poodle Tail (Primary)
+marking-TailPoodle-m_tail_poodle_FRONT_secondary = Poodle Tail (Secondary)
+marking-TailPoodle = Poodle Tail
+
+marking-TailPoodleAnimated-m_waggingtail_tail_poodle_BEHIND_primary = Poodle Tail (Primary)
+marking-TailPoodleAnimated-m_waggingtail_tail_poodle_BEHIND_secondary = Poodle Tail (Secondary)
+marking-TailPoodleAnimated-m_waggingtail_tail_poodle_FRONT_primary = Poodle Tail (Primary)
+marking-TailPoodleAnimated-m_waggingtail_tail_poodle_FRONT_secondary = Poodle Tail (Secondary)
+marking-TailPoodleAnimated = Poodle Tail, Animated
+
 marking-TailQueenInsect-m_tail_queeninsect_BEHIND_primary = Insect Abdomen, Queen (Primary)
 marking-TailQueenInsect-m_tail_queeninsect_BEHIND_secondary = Insect Abdomen, Queen (Secondary)
 marking-TailQueenInsect-m_tail_queeninsect_FRONT_primary = Insect Abdomen, Queen (Primary)
