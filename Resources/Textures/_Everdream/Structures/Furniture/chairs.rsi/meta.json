@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "license": "CC-BY-NC-SA-3.0",
+  "copyright": "Recolored N14 chair by KC (https://github.com/Sushiburger)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "purple_retro_chair",
+	  "directions": 4
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Purple Chair hehe
+
+- type: entity
+  parent: Chair
+  id: N14PurpleChairBarRetro
+  name: purple retro chair
+  suffix: purple retro
+  components:
+  - type: Sprite
+    sprite: _Everdream/Structures/Furniture/chairs.rsi
+    state: purple_retro_chair
